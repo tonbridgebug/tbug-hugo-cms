@@ -1,5 +1,5 @@
 ---
-title: Lorem ipsum dolor sit amet
+title: Lorem ipsum
 date: 2018-03-08T21:52:48.920Z
 description: Lorem ipsum dolor sit amet
 image: /img/tonbridge.png
