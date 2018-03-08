@@ -1,2 +1,2 @@
 # Hugo template for Netlify CMS with Netlify Identity
-TBUG starter
+TBUG starter modifications
